@@ -11,7 +11,7 @@ Repositorio con los scripts y resultados del análisis de la sección "Eleccione
 1. **Extracción:** [src_scrape_elecciones.py] obtiene los titulares actuales utilizando scrapeo
 2. **Procesamiento:** [src_process_elecciones.py] limpia los datos y clasifica temas.
 3. **Análisis:** Interpretación de la agenda mediática y tono discursivo.
-4. Collab: https://colab.research.google.com/drive/1CMGZCCmXgYddYDfA_7u8GUnHsxqqyuhL?usp=sharing
+4. Collab:https://colab.research.google.com/drive/1CMGZCCmXgYddYDfA_7u8GUnHsxqqyuhL?usp=sharing
 
 ## 📊 Hallazgo Principal
 [cite_start]La agenda del 25/01/2026 muestra un predominio de la **fiscalización legal** y la **personalización política**, con escasa presencia de debate programático. [cite: 51, 86]
