@@ -3,12 +3,12 @@
 Repositorio con los scripts y resultados del análisis de la sección "Elecciones".Se analizó la sección elecciones del diario LA REPUBLICA para entender los temas y matices transmitidos.
 
 ## 📁 Estructura
-* `/code`: Scripts en Python para scraping y procesamiento.
+* `/code`: Scripts en Python para scraping y procesamiento. https://github.com/Gaturro2211/TRABAJO-FINAL-ANALISIS-LA-REPUBLICA/tree/ee4b3b09378a727dacd872c7fbeb48a57156495a/code
 * `/data`: Archivos CSV generados (inicializado con .gitkeep). https://github.com/Gaturro2211/TRABAJO-FINAL-ANALISIS-LA-REPUBLICA/tree/25b42e754bbe7edec7e0955d9df040e4cad54efe/data
 * `/docs`: Visualización web del análisis final.
 
 ## 🚀 Metodología
-1. **Extracción:** [src_scrape_elecciones.py] obtiene los titulares actuales.
+1. **Extracción:** [src_scrape_elecciones.py] obtiene los titulares actuales utilizando scrapeo
 2. **Procesamiento:** [src_process_elecciones.py] limpia los datos y clasifica temas.
 3. **Análisis:** Interpretación de la agenda mediática y tono discursivo.
 4. Collab: https://colab.research.google.com/drive/1CMGZCCmXgYddYDfA_7u8GUnHsxqqyuhL?usp=sharing
